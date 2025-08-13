@@ -1,0 +1,8 @@
+name: food
+path: /home/food/people/hyeonjin/scraped_final_250716_2.csv
+
+df:
+  val_ratio: 0.2
+  random_state: 42
+  shuffle: True
+  candidate_num: 20
